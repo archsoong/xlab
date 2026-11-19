@@ -79,9 +79,9 @@ X 實驗學院肩負探索與推進政大高等教育變革的任務，要培育
 
 ## 與校學士的關係
 
-X 實驗學院自去年起推動「跨域學習學士學位」（校學士）：學生從全校各院系的學程中自選 4 個課程模組組成主修，如同雙主修，不影響原本的主修學系。
+X 實驗學院自去年起推動「跨領域學士學位」（校學士）：學生從全校各院系的學程中自選 4 個課程模組組成主修，如同雙主修，不影響原本的主修學系。
 
-共學實驗室平台會連結校學士，為跨域學習注入整合的力量：加深加廣各實驗室的主題，進而形成各自的跨域學士學位。
+共學實驗室平台會連結校學士，為跨域學習注入整合的力量：加深加廣各實驗室的主題，進而形成各自的跨領域學士學位。
 
 ## 孔門的啟發：教學相長的學習共同體
 
@@ -111,7 +111,7 @@ X 實驗學院自去年起推動「跨域學習學士學位」（校學士）：
 ## 預期成果
 
 - **橫向擴散**：以新典範滲透到傳統系所的專門領域教育，促發改變。
-- **縱向延伸**：與校學士制度結合，加深加廣各實驗室主題，形成各自的跨域學士學位。
+- **縱向延伸**：與校學士制度結合，加深加廣各實驗室主題，形成各自的跨領域學士學位。
 - **完整結構**：補齊政大全人素養導向教育的人才培育結構，讓各院系的課程與教學改革有所依循。
 - **師生手冊**：編撰全人素養導向教育的學生手冊與教師手冊。
 
@@ -119,4 +119,4 @@ X 實驗學院自去年起推動「跨域學習學士學位」（校學士）：
 
 The Xperimental College explores and advances higher-education reform at NCCU. Drawing on past reform efforts that fell short, it centres on interdisciplinary and self-directed learning, and proposes a Co-Learning Lab Platform that guides faculty and students, through teaching and learning together, toward an education aimed at both establishing oneself and benefiting others.
 
-Faculty return to the essence of being educators and open themed co-learning labs around the values they care about. Like-minded students gather around shared values and learn by doing: asking what self-cultivation, benefiting others and contributing to society mean (the Way), while building the knowledge and skills to get there (the Techniques). The labs pass on what they learn, keep evolving, and spread to departments across the university. Linked with the Interdisciplinary Bachelor's Degree, each lab's theme can deepen into its own interdisciplinary degree pathway.
+Faculty return to the essence of being educators and open themed co-learning labs around the values they care about. Like-minded students gather around shared values and learn by doing: asking what self-cultivation, benefiting others and contributing to society mean (the Way), while building the knowledge and skills to get there (the Techniques). The labs pass on what they learn, keep evolving, and spread to departments across the university. Linked with the Bachelor of Interdisciplinary Studies, each lab's theme can deepen into its own interdisciplinary degree pathway.
