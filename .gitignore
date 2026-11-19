@@ -1,0 +1,6 @@
+# Raw submissions from the labs (PDF, Word, full-size photos) and design working files — kept locally, never in git
+TEMP/
+# Build output
+dist/
+node_modules/
+.DS_Store

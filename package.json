@@ -1,0 +1,8 @@
+{
+  "name": "xlab-website",
+  "private": true,
+  "description": "Static site for the Co-Learning Lab section of NCCU Xperimental College",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
