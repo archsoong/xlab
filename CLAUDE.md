@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-xlab-website 是國立政治大學 X 實驗學院「共學實驗室」專區的靜態網站：介紹「共學實驗室平台」這個計畫，並替每個共學實驗室各做一頁。GitHub 上是 public repo `xlab`，網站用 GitHub Pages 發布在 https://archsoong.github.io/xlab/ （`.github/workflows/pages.yml`）。repo 是公開的：只放可以公開的東西，原始檔與工作檔留在 `TEMP/`。
+xlab-website 是國立政治大學 X 實驗學院「共學實驗室」專區的靜態網站：介紹「共學實驗室平台」這個計畫，並替每個共學實驗室各做一頁。GitHub 上是組織 `nccuxperiment` 的 public repo `nccuxperiment/xlab`，網站用 GitHub Pages 發布在 https://nccuxperiment.github.io/xlab/ （`.github/workflows/pages.yml`）。repo 是公開的：只放可以公開的東西，原始檔與工作檔留在 `TEMP/`。
 
 ## 結構
 

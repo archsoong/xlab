@@ -6,8 +6,8 @@
 
 - 內容：計畫介紹（仲尼基金提案第 1–15 頁濃縮）與 6 個實驗室，從各實驗室的填報表整理，見 [content/](content/)
 - 內容頁：第一版，共 8 頁（首頁、計畫介紹、6 個實驗室），版面萬事屋阿泰已看過
-- GitHub：public repo [archsoong/xlab](https://github.com/archsoong/xlab)（本機資料夾叫 `xlab-website`）
-- 網站：https://archsoong.github.io/xlab/ （GitHub Pages）。每次 push 到 main，`.github/workflows/pages.yml` 會自動建置發布
+- GitHub：public repo [nccuxperiment/xlab](https://github.com/nccuxperiment/xlab)（本機資料夾叫 `xlab-website`）
+- 網站：https://nccuxperiment.github.io/xlab/ （GitHub Pages）。每次 push 到 main，`.github/workflows/pages.yml` 會自動建置發布
 
 ## 怎麼用
 

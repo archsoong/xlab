@@ -20,8 +20,8 @@
 - 運動人文三位主持人的照片照表單順序對應，確認無誤
 - 「讓轉化發生的四個條件」直接寫全名，不用單字縮寫
 - 校學士的正式名稱是「跨領域學士學位」（計畫書寫「跨域學習學士學位」），英文是 Bachelor of Interdisciplinary Studies
-- 獨立成 repo：GitHub repo `xlab`（本機資料夾仍叫 `xlab-website`）。先建成 private，但免費方案的 private repo 不能開 GitHub Pages（GitHub 回 422），改成 public
-- 網站放 GitHub Pages：網址 https://archsoong.github.io/xlab/ ，每次 push 到 main 由 `.github/workflows/pages.yml` 自動建置發布；萬事屋阿泰確認後上線
+- 獨立成 repo：GitHub repo `xlab`（本機資料夾仍叫 `xlab-website`）。先建成 private，但免費方案的 private repo 不能開 GitHub Pages（GitHub 回 422），改成 public。之後移到組織 `nccuxperiment`（萬事屋阿泰開的組織）
+- 網站放 GitHub Pages：網址 https://nccuxperiment.github.io/xlab/ ，每次 push 到 main 由 `.github/workflows/pages.yml` 自動建置發布；萬事屋阿泰確認後上線
 - 平台的提案與聯絡信箱：kych@nccu.edu.tw，放在首頁「點子收發室」
 - repo 公開後只放可以公開的東西：工作檔留在 `TEMP/`，不進 git
 
