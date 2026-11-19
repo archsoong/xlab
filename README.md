@@ -5,9 +5,9 @@
 ## 現況（2026-11-19）
 
 - 內容：計畫介紹（仲尼基金提案第 1–15 頁濃縮）與 6 個實驗室，從各實驗室的填報表整理，見 [content/](content/)
-- 網站：第一版，共 8 頁（首頁、計畫介紹、6 個實驗室），版面萬事屋阿泰已看過
+- 內容頁：第一版，共 8 頁（首頁、計畫介紹、6 個實驗室），版面萬事屋阿泰已看過
 - GitHub：public repo [archsoong/xlab](https://github.com/archsoong/xlab)（本機資料夾叫 `xlab-website`）
-- 部署：GitHub Pages（https://archsoong.github.io/xlab/），用 `.github/workflows/pages.yml` 建置與發布；目前只能手動執行，還沒上線
+- 網站：https://archsoong.github.io/xlab/ （GitHub Pages）。每次 push 到 main，`.github/workflows/pages.yml` 會自動建置發布
 
 ## 怎麼用
 

@@ -20,7 +20,8 @@
 - 運動人文三位主持人的照片照表單順序對應，確認無誤
 - 「讓轉化發生的四個條件」直接寫全名，不用單字縮寫
 - 獨立成 repo：GitHub repo `xlab`（本機資料夾仍叫 `xlab-website`）。先建成 private，但免費方案的 private repo 不能開 GitHub Pages（GitHub 回 422），改成 public
-- 網站放 GitHub Pages：已開啟（來源：GitHub Actions），網址 https://archsoong.github.io/xlab/ ；workflow 先設成手動執行，萬事屋阿泰確認後才發布
+- 網站放 GitHub Pages：網址 https://archsoong.github.io/xlab/ ，每次 push 到 main 由 `.github/workflows/pages.yml` 自動建置發布；萬事屋阿泰確認後上線
+- 平台的提案與聯絡信箱：kych@nccu.edu.tw，放在首頁「點子收發室」
 - repo 公開後只放可以公開的東西：工作檔留在 `TEMP/`，不進 git
 
 ## 量到的數字（基準）
@@ -31,6 +32,4 @@
 
 ## 沒做的
 
-- 平台本身的聯絡方式（首頁「點子收發室」是佔位）
-- 上線（Pages 已開啟，還沒發布，等萬事屋阿泰確認）
 - 待確認的資料見 [todos.md](../todos.md)

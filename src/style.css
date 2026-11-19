@@ -200,7 +200,8 @@ p { margin: 0; }
 .ideas p { max-width: 32em; }
 .ideas-box { border: 1.5px dashed rgba(255, 253, 248, .7); border-radius: 4px; padding: 28px; }
 .box-label { font: 500 .75rem var(--f-mono); letter-spacing: .12em; opacity: .85; margin-bottom: 8px; }
-.placeholder { font: 700 1.4rem var(--f-display); }
+.ideas-mail { font: 700 1.4rem var(--f-display); color: var(--surface); text-underline-offset: 6px; text-decoration-thickness: 1.5px; overflow-wrap: anywhere; }
+.ideas-mail:hover { text-decoration-thickness: 3px; }
 @media (max-width: 760px) { .ideas-grid { grid-template-columns: 1fr; } }
 
 /* ---------- footer ---------- */

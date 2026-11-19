@@ -135,7 +135,7 @@ function home() {
 <section id="ideas" class="ideas">
   <div class="wrap ideas-grid">
     <div><p class="kicker light">點子收發室</p><h2>有想一起做的事？</h2><p>${esc(program.site_role)}</p></div>
-    <div class="ideas-box"><p class="box-label">提案與聯絡</p><p class="placeholder">聯絡方式待確認</p></div>
+    <div class="ideas-box"><p class="box-label">提案與聯絡</p><a class="ideas-mail" href="mailto:${esc(program.contact_email)}">${esc(program.contact_email)}</a></div>
   </div>
 </section>`;
   return page({ root, title: `${program.title}｜${program.org}`, description: lede, body });

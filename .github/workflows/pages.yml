@@ -1,8 +1,10 @@
 # Build dist/ and publish it to GitHub Pages.
-# Manual trigger only until going live is approved; then add `push: branches: [main]`.
+# Runs on every push to main; can also be started by hand.
 name: Deploy to GitHub Pages
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
